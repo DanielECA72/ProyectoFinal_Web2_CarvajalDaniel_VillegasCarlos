@@ -41,7 +41,7 @@ export default function App() {
       <nav className="top-nav">
         <div className="nav-left">
           <img
-            src="/src/img/logouni.png"
+            src="../src/img/logouni.png"
             alt="Logo Universidad"
           />
           <h2>Portal de Noticias</h2>
