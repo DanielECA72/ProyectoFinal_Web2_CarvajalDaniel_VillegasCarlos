@@ -60,7 +60,7 @@ export default function Home() {
     <div className="main-container">
       {/* ======= BANNER SUPERIOR ======= */}
       <div className="banner">
-        <img src="./src/img/Banner1.jpeg" alt="Programa Ingeniería de Sistemas" />
+        <img src="/img/Banner1.jpeg" alt="Programa Ingeniería de Sistemas" />
       </div>
 
       {/* ======= HEADER ======= */}
@@ -132,7 +132,8 @@ export default function Home() {
 
       {/* ======= BANNER INFERIOR ======= */}
       <div className="banner">
-        <img src="./src/img/Banner2.jpeg" alt="Acreditación Institucional" />
+        <img src="/img/Banner2.jpeg" alt="Acreditación Institucional" />
+
       </div>
 
       {/* ======= UBICACIÓN ======= */}
